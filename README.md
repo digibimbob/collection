@@ -1,2 +1,2 @@
 # collection
-Machine Learning for Everybody – Full Course
+Machine Learning Collection
